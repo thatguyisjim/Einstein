@@ -1,0 +1,10 @@
+.face{
+    height:400px;
+    width:400px;
+}
+body{
+    background-color: #c3f8ff;
+}
+li{font-family: Arial;
+font-size: 1.25rem;
+fonr-weight:bold;}
